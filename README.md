@@ -9,4 +9,9 @@
 - Url Console H2 http://localhost:8080/h2-ui/
 - Config param (JDBC URL =jdbc:h2:mem:/test) in Console H2
 
+# Version
 
+- java 11
+- Spring 2.7.0
+- Hibernate version 5.6.9.Final
+- Junit
